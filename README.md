@@ -1,4 +1,3 @@
 # Demo_repo
-The introduction to learning GitHub
-Adding another line!
+The introduction to learning GitHub.
 An other one tooo!
